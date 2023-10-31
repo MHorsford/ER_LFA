@@ -1,4 +1,4 @@
-# Validador de Entrada e Arranjos Familiares
+# Validador de Entrada e Arranjos
 
 Este repositório contém um conjunto de scripts em Python para validar entradas de dados com expressões regulares e representar arranjos familiares de acordo com critérios específicos.
 
@@ -14,4 +14,5 @@ Para executar o código, siga as etapas abaixo:
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 
